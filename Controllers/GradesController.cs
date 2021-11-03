@@ -13,7 +13,6 @@ using GradesAPI.Models;
 
 namespace GradesAPI.Controllers
 {
-    //[Route("api/[controller]")]
     [ApiController]
     public class GradesController : ControllerBase
     {
